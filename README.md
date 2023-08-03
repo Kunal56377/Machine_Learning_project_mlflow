@@ -76,7 +76,7 @@ set MLFLOW_TRACKING_URI=https://dagshub.com/kunalmugalkhod007/Machine_Learning_p
 
 set MLFLOW_TRACKING_USERNAME=kunalmugalkhod007 
 
-set MLFLOW_TRACKING_PASSWORD=cb31809f3ed35c10a7319792e2dacc026695b323
+set MLFLOW_TRACKING_PASSWORD=77add4e16ec41cb48cc6f61dcff1e7a2e510922b
 
 ```
 
@@ -166,3 +166,4 @@ MLflow
  - Logging & tagging your model
 
 
+050859920378.dkr.ecr.eu-north-1.amazonaws.com/mlflow01
